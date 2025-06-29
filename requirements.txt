@@ -1,5 +1,5 @@
 Flask==2.3.3
 Werkzeug==2.3.7
-pdf2docx==0.0.6
+pdf2docx==0.5.8
 python-docx==0.8.11
 gunicorn==21.2.0 
